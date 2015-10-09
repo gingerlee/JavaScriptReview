@@ -9,7 +9,7 @@ This is a simple form built using JavaScript, JQuery, HTML, CSS, and Bootstrap t
 ## Setup
 View my JavaScriptReview repository files by cloning this repository:
 ```sh
-
+http://gingerlee.github.io/JavaScriptReview/
 ```
 
 ## Technologies Used
