@@ -1,10 +1,10 @@
 $(document).ready(function() {
   $("#blanks form").submit(function(event) {
-    var favorites = $("input#favorite").val();
+    var favoritesInput = $("input#favorite").val();
 
-    $(".favorite").append(favorites);
+    $(".favorite1").append(favoritesInput);
 
-    $("#favelist").show();
+    $("#list").show();
 
     event.preventDefault();
   });
